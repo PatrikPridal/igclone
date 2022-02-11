@@ -7,9 +7,9 @@ import 'firebase/compat/storage'
 const firebaseApp = firebase.initializeApp({
   apiKey: "AIzaSyAQVPLwtLK1X_UIvFCEQT7_lMGdZeX7VQw",
   authDomain: "igschedule-b82d7.firebaseapp.com",
-  databaseURL: "https://igschedule-b82d7.firebaseio.com",
+  databaseURL: "https://igschedule-b82d7-default-rtdb.firebaseio.com",
   projectId: "igschedule-b82d7",
-  storageBucket: "igschedule-b82d7.appspot.com",
+  storageBucket: "gs://igschedule-b82d7.appspot.com",
   messagingSenderId: "977307697194",
   appId: "1:977307697194:web:09a688efdeb7abb5f2c353",
   measurementId: "G-KSYVTGFKZR"
